@@ -1,0 +1,13 @@
+{
+    "blockchain": [
+        {
+            "index": 0,
+            "Last Name": "Stranger",
+            "First Name": "adel",
+            "University": "USTHB",
+            "Degree": "M1 SSI",
+            "Date Conferred": "205",
+            "proof": 1,
+            "previous_hash": "0"
+        }]
+}
